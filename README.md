@@ -1,2 +1,2 @@
 # Procedure-Generathion-Map
-template of map for my game
+Recreating the generation of the world from the miniDayz mobile game
